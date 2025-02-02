@@ -1,0 +1,37 @@
+# Mijn AI Project
+
+This repository contains a prototype for an AI-powered planning application, inspired by Clevergig, with a focus on simplicity and efficiency. The application aims to provide automated scheduling and task management features.
+
+## Features
+- Automated scheduling
+- Task management
+- User-friendly interface
+- Integration with external services
+
+## Getting Started
+Instructions on how to set up and run the project locally.
+
+## Contributing
+Guidelines for contributing to the project.
+
+## License
+Information about the project's license.
+
+
+## Description
+This AI-powered planning application is designed to provide users with a simple and efficient scheduling experience. It leverages machine learning algorithms to optimize task allocation and scheduling, ensuring that users can manage their time effectively.
+
+## Features
+- Automated scheduling: The application automatically schedules tasks based on user preferences and availability.
+- Task management: Users can create, edit, and delete tasks, and view them in a calendar or list view.
+- User-friendly interface: The application features a clean and intuitive interface, making it easy for users to navigate and manage their tasks.
+- Integration with external services: The application can integrate with external services such as Google Calendar for seamless scheduling.
+
+## Getting Started
+To get started with the project, clone the repository and install the necessary dependencies. The application can be run locally or deployed to a cloud platform.
+
+## Contributing
+We welcome contributions from the community. If you'd like to contribute, please submit a pull request with your changes. Be sure to follow the project's coding standards and guidelines.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
